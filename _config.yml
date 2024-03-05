@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "Yang Lee"
 description              : &description "I am a member of Shenzhen InnoX Academy, a volunteer at Hugging Face, a member of AITIME, and an Ambassador for DataWhale. With a background in AI and robotics startups, I am passionate about leveraging technology for innovative solutions."
 url                      : https://innovation64.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/academic" # the subpath of your site, e.g. "/blog"
-repository               : "innovation64/academic"
+baseurl                  : "/AcademicX" # the subpath of your site, e.g. "/blog"
+repository               : "innovation64/AcademiX"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
